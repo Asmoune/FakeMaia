@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Test Asma | <%= @titre %></title>
+  </head>
+  <body>
+    <h1><%= @titre %></h1>
+  </body>
+</html>
