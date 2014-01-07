@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Test Asma | <%= @titre %></title>
+    <title>Test Asma</title>
   </head>
   <body>
     <h1><%= @titre %></h1>
+	<p> <%= @range %> </p>
   </body>
 </html>
